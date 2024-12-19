@@ -1,0 +1,21 @@
+{
+    "name": "portfolio-website",
+    "version": "1.0.0",
+    "description": "A portfolio website with a contact form and backend email functionality",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.20.1",
+        "dotenv": "^16.0.3",
+        "express": "^4.21.2",
+        "nodemailer": "^6.7.1"
+    },
+    "engines": {
+        "node": ">=16.0.0"
+    },
+    "author": "Shobika",
+    "license": "ISC",
+    "keywords": []
+}
